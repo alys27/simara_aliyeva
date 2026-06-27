@@ -1,14 +1,14 @@
 # Site Settings
-title: Who Is Simara?
-description: Personal portfolio website for SITE 1101 - Principles of Information Systems course
+title: "Simara Aliyeva"
+description: "Computer Science student at ADA University — portfolio of projects, skills, and coursework."
 author: "Simara Aliyeva"
 email: saliyeva24095@ada.edu.az
 github_username: "alys27"
 codecademy_username: "alyss27"
-repository: "https://github.com/alys27/who-is-simara"
+repository: "https://github.com/alys27/simara_aliyeva"
 
 # Base URL
-baseurl: "/who-is-simara"
+baseurl: "/simara_aliyeva"
 url: "https://alys27.github.io"
 
 # Build settings
@@ -27,10 +27,8 @@ exclude:
   - README.md
   - SETUP_GUIDE.md
   - PROJECT_SUMMARY.md
+  - JEKYLL_SETUP.md
   - .gitignore
-
-# Theme settings (if using a theme)
-# theme: minima
 
 # Collections
 collections:
@@ -44,4 +42,3 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-
